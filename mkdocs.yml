@@ -1,7 +1,7 @@
 site_name: 胖達團隊
 site_url: http://127.0.0.1:8000
-repo_name: panda_studio/bot_docs
-repo_url: https://github.com/panda_studio/bot_docs
+repo_name: panda-stu/docs
+repo_url: https://github.com/panda-stu/docs
 edit_uri: ""
 theme: 
   name: material
