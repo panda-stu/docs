@@ -1,0 +1,42 @@
+site_name: 胖達團隊
+site_url: http://127.0.0.1:8000
+repo_name: panda_studio/bot_docs
+repo_url: https://github.com/panda_studio/bot_docs
+edit_uri: ""
+theme: 
+  name: material
+  language: zh-TW
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - navigation.tracking
+  icon:
+    repo: fontawesome/brands/git-alt
+copyright: 版權所有 &copy; 2022 胖達團隊
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - attr_list
+  - pymdownx.betterem:
+      smart_enable: all
+
+extra:
+  generator: true
+  consent:
+  title: Cookie consent
+  description: >- 
+    We use cookies to recognize your repeated visits and preferences, as well
+    as to measure the effectiveness of our documentation and whether users
+    find what they're searching for. With your consent, you're helping us to
+    make our documentation better.
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/vZ3UyAs5bn
