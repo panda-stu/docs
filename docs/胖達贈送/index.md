@@ -1,8 +1,4 @@
 # 介紹
-<h1 align="center">
-  Egglord
-  <br>
-</h1>
 
 ## ❓ 關於我
 
