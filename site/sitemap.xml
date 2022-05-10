@@ -2,37 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://127.0.0.1:8000/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/filter/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E8%B4%88%E9%80%81/</loc>
+         <lastmod>2022-05-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E8%B4%88%E9%80%81/commands/</loc>
+         <lastmod>2022-05-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/</loc>
+         <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/info/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/music/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/queue/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/settings/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/song/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-05-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/%E7%AF%A9%E9%81%B8%E5%99%A8/</loc>
+         <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
