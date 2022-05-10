@@ -6,7 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/filter/</loc>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E8%B4%88%E9%80%81/</loc>
+         <lastmod>2022-05-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E8%B4%88%E9%80%81/commands/</loc>
+         <lastmod>2022-05-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -32,6 +42,11 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/song/</loc>
+         <lastmod>2022-05-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/%E8%83%96%E9%81%94%E9%9F%B3%E6%A8%82/%E7%AF%A9%E9%81%B8%E5%99%A8/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
