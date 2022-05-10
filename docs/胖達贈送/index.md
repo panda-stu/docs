@@ -16,20 +16,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dapibus odio e
 *   🎁  **管理指令**: `setmention`, `setprefix`, `setrole`
 *   ❤️  **資訊指令**: `stats`, `ping`, `invite`, `help`
 
-Egglord also comes packed with a variety of features, such as:
-
-  * **Welcome messages** and **farewell messages**.
-  * **Extensive Logging** for 37 events.
-  * **Slash Commands**
-  * **Advanced** auto-moderation.
-  * **Audio filters** for music plugin.
-  * **Custom** playlist support.
-  * **Multi-language support**.
-  * **Giveaways**
-  * **Reaction roles**
-  * And much more! There are over **40+** settings to tweak!
-
-
 ## 📝 需要處理的事情
   
   * 修復問題
